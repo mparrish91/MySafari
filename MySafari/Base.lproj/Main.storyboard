@@ -97,7 +97,6 @@
                         <outlet property="backButton" destination="F6G-1n-661" id="PyY-vw-HNC"/>
                         <outlet property="forwardButton" destination="hHs-2r-ewn" id="jy2-14-BKq"/>
                         <outlet property="urlTextField" destination="xqS-V6-53E" id="qht-eV-dx9"/>
-                        <outlet property="urltextField" destination="stu-mz-yRa" id="Me3-HF-W8J"/>
                         <outlet property="webPageTitleLabel" destination="rdY-nJ-oos" id="zD5-Lg-Dz5"/>
                         <outlet property="webView" destination="stu-mz-yRa" id="psl-K7-ymY"/>
                     </connections>

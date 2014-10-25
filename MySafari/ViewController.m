@@ -105,7 +105,6 @@
     self.urlTextField.alpha = 0.5;
     self.urlTextField.hidden = YES;
     
-    
 
     float scrollViewHeight = scrollView.frame.size.height;
     float scrollContentSizeHeight = scrollView.contentSize.height;
